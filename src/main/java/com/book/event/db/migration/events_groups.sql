@@ -1,0 +1,3 @@
+INSERT INTO book.event_groups (id, category, end_date, `key`, price, qty, start_date, event_id) VALUES (1, 'Platinum', '2024-11-04 20:00:00.000000', 'pla-Con10124', 7000000.00, 55000, '2024-10-04 20:00:00.000000', 1);
+INSERT INTO book.event_groups (id, category, end_date, `key`, price, qty, start_date, event_id) VALUES (2, 'Gold', '2024-10-04 19:00:00.000000', 'gold-Con10124', 5000000.00, 65000, '2024-09-04 20:00:00.000000', 1);
+INSERT INTO book.event_groups (id, category, end_date, `key`, price, qty, start_date, event_id) VALUES (4, 'Silver', '2024-07-04 19:00:00.000000', 'sil-Con10124', 5000000.00, 35000, '2024-08-04 20:00:00.000000', 1);

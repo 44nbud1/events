@@ -1,0 +1,2 @@
+INSERT INTO book.locations (id, created_at, updated_at, venue, address) VALUES (1, 20240316080408, 20240316080408, 'Jakarta Convention Center', 'JCC, Jl. Gatot Subroto, Senayan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270');
+INSERT INTO book.locations (id, created_at, updated_at, venue, address) VALUES (2, 20240316080408, 20240316080408, 'Beach City International Stadium', 'Jl. Kw. Wisata Ancol, Ancol, Pademangan, North Jakarta City, Jakarta 14430');
